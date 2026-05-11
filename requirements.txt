@@ -1,5 +1,5 @@
 flask
-numpy
-tensorflow
+numpy==1.26.4
+tensorflow-cpu==2.15.0
 joblib
 scikit-learn
